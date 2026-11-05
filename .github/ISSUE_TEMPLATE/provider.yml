@@ -1,0 +1,45 @@
+name: Suggest a provider or dealer
+description: Recommend a non-auction dealer, shipping, inspection, customs or payment resource
+title: "[Directory] "
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Dealer / exporter (non-auction)
+        - Shipping / logistics
+        - Independent inspection
+        - Payment / banking
+        - Official customs authority
+        - Repair / spare parts
+    validations:
+      required: true
+  - type: input
+    id: provider
+    attributes:
+      label: Provider name
+      placeholder: Company or official authority
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: coverage
+    attributes:
+      label: Countries and evidence of service coverage
+      description: Specify origins, destinations and public supporting URLs. Unknown is acceptable.
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public submission safety
+      options:
+        - label: I have not included customer personal data, passwords or banking credentials.
+          required: true

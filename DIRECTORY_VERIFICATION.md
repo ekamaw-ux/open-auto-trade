@@ -23,3 +23,13 @@ Open Auto Trade is a free directory, not a freight broker, payment processor, in
 
 ## Outstanding checks
 Most individual shipping corridors, inspection site coverage and payment business-use restrictions remain **unverified**. The website must not describe these as confirmed partner routes.
+
+## Source-backed coverage check — 2026-11-05
+
+- **Wise supported recipient countries:** Official Wise list names Egypt, Ghana, Kenya, Morocco, Nigeria, South Africa, Tanzania, Uganda and Zambia. This is not approval for vehicle purchase, business transfer, or any specific sending country. Source: https://wise.com/help/articles/2571942/what-countriesregions-can-i-send-to
+- **Wise excluded locations:** Official Wise availability page excludes Burundi, Central African Republic, Chad, Congo, DR Congo, Eritrea, Libya, Somalia, South Sudan and Sudan. These must not be presented as Wise payment destinations. Source: https://wise.com/help/articles/2978049/where-can-i-use-wise
+- **Höegh carrier network:** Official port directory includes Mombasa, Dar es Salaam, Tema, Lagos, Durban and other African ports. Port directory presence alone does not establish a bookable voyage or direct route. Source: https://www.hoeghautoliners.com/offices-agents-and-ports
+- **Höegh trade lanes:** Official site describes East Asia to Africa and Middle East to Africa trade lanes, and a Middle East/India to Africa route with Durban as a discharge port. Source: https://www.hoeghautoliners.com/trade-routes and https://www.hoeghautoliners.com/trade-routes/middle-east-to-africa-and-americas
+- **Inspection:** No site-level inspection availability has been confirmed for individual vehicles. Require a written quote and report scope before labeling a route verified.
+
+**Important:** This check verifies selected public evidence, not every provider across all 54 countries. Country-specific import laws and commercial eligibility require further primary-source review.

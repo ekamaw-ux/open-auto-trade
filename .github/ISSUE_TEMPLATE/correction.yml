@@ -1,0 +1,21 @@
+name: Report outdated link or incorrect information
+description: Help keep Open Auto Trade accurate
+title: "[Correction] "
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page section or provider
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong?
+      description: Explain the issue and link to evidence where possible.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction

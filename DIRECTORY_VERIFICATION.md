@@ -33,3 +33,16 @@ Most individual shipping corridors, inspection site coverage and payment busines
 - **Inspection:** No site-level inspection availability has been confirmed for individual vehicles. Require a written quote and report scope before labeling a route verified.
 
 **Important:** This check verifies selected public evidence, not every provider across all 54 countries. Country-specific import laws and commercial eligibility require further primary-source review.
+
+## Additional source checks — 2026-11-05
+
+- **Freight quote workflow:** Höegh Autoliners describes checking a sailing schedule, submitting a freight inquiry, receiving a quote, then booking and tracking. This does **not** establish any freight amount or a guaranteed sailing. https://www.hoeghautoliners.com/
+- **Korea used-vehicle inspection:** SGS Korea describes independent used-vehicle inspection, damage photographs and reports. Confirm whether a one-off pre-purchase inspection at the seller's site is offered. https://www.sgs.com/en-kr/services/used-vehicle-inspection
+- **Japan used-vehicle inspection:** SGS Japan describes used-vehicle inspection services, but not guaranteed coverage for any individual dealer's stock. https://www.sgs.com/ja-jp/services/used-vehicle-inspection-migrated
+- **Egypt import advisory:** U.S. International Trade Administration reports general restrictions on used-car imports with exceptions; confirm current official rules and vehicle eligibility before purchasing. https://www.trade.gov/country-commercial-guides/egypt-prohibited-restricted-imports
+- **Rwanda import advisory:** ITA's March 2026 guide details vehicle emissions documentation requirements. https://www.trade.gov/country-commercial-guides/rwanda-import-requirements-and-documentation
+- **Angola import advisory:** ITA describes vehicle age restrictions by vehicle class. Confirm the current rules with Angolan customs. https://www.trade.gov/country-commercial-guides/angola-prohibited-restricted-imports
+- **Ghana customs valuation:** ITA cautions that used-car customs valuation is complex and can change. https://www.trade.gov/country-commercial-guides/ghana-customs-regulations
+
+### Still unverified
+No real-time freight rates, confirmed bookable origin-destination voyages, inspection appointments, dealer-specific inspection prices or complete vehicle import rules for all 54 destinations are available. The directory must not claim these as verified.

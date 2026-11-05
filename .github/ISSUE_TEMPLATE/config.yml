@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributor guidelines
+    url: https://github.com/ekamaw-ux/open-auto-trade/blob/main/CONTRIBUTING.md
+    about: Review sourcing and safety standards before submitting.
